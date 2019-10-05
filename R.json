@@ -1,0 +1,40 @@
+{
+    "images": [
+        {"name":"bg_0", "url":"resource/images/bg_0.png"},
+        {"name":"bg_1", "url":"resource/images/bg_1.png"},
+        {"name":"land", "url":"resource/images/land.png"},
+        {"name":"bird0_0", "url":"resource/images/bird0_0.png"},
+        {"name":"bird0_1", "url":"resource/images/bird0_1.png"},
+        {"name":"bird0_2", "url":"resource/images/bird0_2.png"},
+        {"name":"bird1_0", "url":"resource/images/bird1_0.png"},
+        {"name":"bird1_1", "url":"resource/images/bird1_1.png"},
+        {"name":"bird1_2", "url":"resource/images/bird1_2.png"},
+        {"name":"bird2_0", "url":"resource/images/bird2_0.png"},
+        {"name":"bird2_1", "url":"resource/images/bird2_1.png"},
+        {"name":"bird2_2", "url":"resource/images/bird2_2.png"},
+        {"name":"button_play", "url":"resource/images/button_play.png"},
+        {"name":"pipe_down", "url":"resource/images/pipe_down.png"},
+        {"name":"pipe_up", "url":"resource/images/pipe_up.png"},
+        {"name":"number0", "url":"resource/images/font_048.png"},
+        {"name":"number1", "url":"resource/images/font_049.png"},
+        {"name":"number2", "url":"resource/images/font_050.png"},
+        {"name":"number3", "url":"resource/images/font_051.png"},
+        {"name":"number4", "url":"resource/images/font_052.png"},
+        {"name":"number5", "url":"resource/images/font_053.png"},
+        {"name":"number6", "url":"resource/images/font_054.png"},
+        {"name":"number7", "url":"resource/images/font_055.png"},
+        {"name":"number8", "url":"resource/images/font_056.png"},
+        {"name":"number9", "url":"resource/images/font_057.png"},
+        {"name":"title", "url":"resource/images/title.png"},
+        {"name":"tutorial", "url":"resource/images/tutorial.png"},
+        {"name":"blink_00", "url":"resource/images/blink_00.png"},
+        {"name":"blink_01", "url":"resource/images/blink_01.png"},
+        {"name":"blink_02", "url":"resource/images/blink_02.png"},
+        {"name":"button_resume", "url":"resource/images/button_resume.png"},
+        {"name":"button_menu", "url":"resource/images/button_menu.png"},
+        {"name":"text_ready", "url":"resource/images/text_ready.png"},
+        {"name":"text_game_over", "url":"resource/images/text_game_over.png"}
+
+    ]
+
+}
