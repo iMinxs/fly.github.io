@@ -21,6 +21,6 @@ class Land {
 
         //猫腻大地
         game.ctx.fillStyle = '#ded895';
-        game.ctx.fillRect(0, this.y + 112,game.canvas.width, game.canvas.height * 0.22);
+        game.ctx.fillRect(0, this.y + 100,game.canvas.width, game.canvas.height * 0.22);
     }
 }
