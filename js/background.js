@@ -1,4 +1,4 @@
-//导出背景类
+
 class Background {
     constructor() {
         //随机bg颜色
